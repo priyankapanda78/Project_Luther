@@ -1,5 +1,5 @@
 # Project_Luther
-To predict the sale prices of Used Cars.
+To predict the sale prices of Used Cars by Linear Regression.
 
 Data Source: Used Cars dataset collected for Bay Area. Total 2400 records.
 
